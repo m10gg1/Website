@@ -1,0 +1,251 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background-color: #00004d;
+}
+.ducky{
+    box-sizing: border-box;
+        background-image: url("Picture/back.jpg");
+         background-size: cover;
+         height: 100vh;
+         width: 100%;
+}
+   
+        .navbar{
+   
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            color: gold;
+            border-radius: 50px;
+            padding:13px 35px;
+        }
+        
+        .navbar-links ul{
+            margin: 0;
+            padding: 0;
+            margin-left: 1000px;
+            float: left;
+            display: flex;
+            background: #00004d;
+            border-radius: 50px;
+            padding: 13px;
+            box-shadow: 0 20px 20px -20px rgba(0,0,0,0.4);
+        
+        }
+        .navbar-links li{
+            list-style: none;
+        }
+        
+        .navbar-links li a{
+        text-decoration: none;
+        color: gold;
+        padding: 1rem;
+        display: block;
+        cursor: pointer;
+        }
+        .navbar-links li a:hover{
+        color:crimson;
+        }
+
+        .duck-goose h1{
+            margin: 0;
+            color:gold;
+            padding: 70px;
+            text-align: center;
+            font-size: 2rem;
+        }
+        .pic{
+            padding-top: 0;
+               height: 90px;
+               width: 90px;
+               border-radius: 50%;
+               border: 5px solid gold;
+             
+               margin-left:130px ;
+               margin-bottom: 0;
+               background-color: #00004d;
+           }
+           .one{
+           padding-top: 0;
+               height: 90px;
+               width: 90px;
+               border-radius: 50%;
+               border: 5px solid gold;
+                float: right;
+                margin-right: 90px;
+                margin-bottom: 0;
+                background-color: #00004d;
+                
+           }
+
+           
+.continent{
+    overflow: hidden;
+        margin: 0;
+    
+      justify-content: center;
+      position: relative;
+    }
+    .white{
+        padding: 12px;
+    margin-left: 150px;
+        background-color: #fff;
+        height: 250px;
+        width:960px;
+        border-radius: 70px;
+       border: 20px solid grey;
+       overflow-x: hidden;
+    }
+
+    .pict{
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        border: 5px solid gold;
+         top: 0;
+        margin-left: 90px;
+    }
+    .ones{
+        top: 0;
+        height: 50px;
+        width: 40px;
+        border-radius: 50%;
+        border: 5px solid gold;
+        float: right;
+        margin-right: 90px;
+    }
+.deux{
+    margin-top: 530px;
+}
+
+.train{
+    display: flex;
+    padding: 20px;
+}
+.miss{
+    background-color: white;
+    border:2px solid gray;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+
+
+.mist{
+    background-color: white;
+    border:2px solid grey;
+    padding: 20px;
+   margin: 20px;
+    text-align: center;
+    border-radius: 20px; 
+}
+
+.viss{
+    background-color: white;
+    border:2px solid gray;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+
+.vist{
+    background-color: white;
+    border:2px solid grey;
+   margin: 20px;
+ padding: 20px;
+
+    text-align: center;
+    border-radius: 20px;  
+}
+
+.txt{
+    text-align: center;
+    color: gold;
+    font-size: 2rem;
+}
+.members{
+display: inline-flex;
+    padding: 10px;
+}
+
+.duff{
+height: 200px;
+width:250px;
+border-radius: 50%;
+    border: 2px solid gold;
+}
+
+.tom{
+
+    background-color: white;
+    border:2px solid gray;
+    padding: 10px;
+    text-align: center;
+    border-radius: 20px;
+    padding: 20px;
+    display: inline-flexbox;
+  margin: 10px;
+}
+.jerry{
+    background-color: white;
+    border:2px solid gray;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.footer{
+    overflow-x: hidden;
+    background-color: blue;
+    width:100vw;
+    display:flex;
+    padding:50px;
+    text-align: center;
+    justify-content: center;
+    letter-spacing: 1px;
+    color: white;
+   }
+   .link {
+    background-color:blue;
+    text-decoration: none;
+    border: 3px solid white;
+    padding: 10px;
+    height:10px;
+   
+    color:white;
+
+}
+.stiff{
+    background-color: white;
+    color: grey;
+    text-decoration: none;
+    border:2px solid white ;
+    border-radius: 70px;
+    height: 10px;
+ 
+    padding: 10px;
+    margin: 20px;
+}
+.digital{
+    background-color: blue;
+    width: 100vw;
+    overflow: hidden;
+   
+  
+   
+}
+
+.pin{
+color: white;
+ 
+margin-left: 1000px;
+
+}

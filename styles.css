@@ -1,0 +1,335 @@
+body{
+    margin: 0;
+    overflow-x: hidden;
+   
+}
+.ducky{
+    box-sizing: border-box;
+        background-image: url("Picture/back.jpg");
+         background-size: cover;
+         height: 100vh;
+         width: 100%;
+}
+   
+        .navbar{
+   
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            color: gold;
+            border-radius: 50px;
+            padding:13px 35px;
+        }
+        
+        .navbar-links ul{
+            margin: 0;
+            padding: 0;
+            margin-left: 1000px;
+            float: left;
+            display: flex;
+            background: #00004d;
+            border-radius: 50px;
+            padding: 13px;
+            box-shadow: 0 20px 20px -20px rgba(0,0,0,0.4);
+        
+        }
+        .navbar-links li{
+            list-style: none;
+        }
+        
+        .navbar-links li a{
+        text-decoration: none;
+        color: gold;
+        padding: 1rem;
+        display: block;
+        cursor: pointer;
+        }
+        .navbar-links li a:hover{
+        color:crimson;
+        }
+        .text{
+            margin-left: 1000px;
+            float: left;
+            font-size: 1.5rem;
+            padding:10px;
+            color:white;
+           
+        }
+        
+        .btn{
+             color:#fff;
+            background-color: goldenrod;
+            border-radius: 150px;
+            padding:15px;
+        }
+        
+
+.duck-goose{
+    
+    background-color:#00004d;;
+    height: 100vh;
+    width: 100%;
+   
+    
+}
+
+.duck-goose h1{
+    margin: 0;
+    color:gold;
+    padding: 70px;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.continent{
+overflow: hidden;
+    margin: 0;
+
+  justify-content: center;
+  position: relative;
+}
+.white{
+    padding: 12px;
+margin-left: 150px;
+    background-color: #fff;
+    height: 250px;
+    width:960px;
+    border-radius: 70px;
+   border: 20px solid grey;
+   overflow-x: hidden;
+}
+
+.pic{
+ padding-top: 0;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border: 5px solid gold;
+  
+    margin-left:130px ;
+    margin-bottom: 0;
+    background-color: #00004d;
+}
+.one{
+padding-top: 0;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border: 5px solid gold;
+     float: right;
+     margin-right: 90px;
+     margin-bottom: 0;
+     background-color: #00004d;
+     
+}
+.pict{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 5px solid gold;
+     top: 0;
+    margin-left: 90px;
+}
+.ones{
+    top: 0;
+    height: 50px;
+    width: 40px;
+    border-radius: 50%;
+    border: 5px solid gold;
+    float: right;
+    margin-right: 90px;
+}
+
+.hut{
+    background-color: #00004d;
+   
+}
+
+
+.hold{
+    margin: 0;
+    padding: 0px;
+    background-color: #00004d;
+    height: 100vh;
+    width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.card{
+    background: #fff;
+    width:250px;
+  height:440px;
+    margin: 10px;
+    border-radius: 15px;
+    border: 2px solid grey;
+  
+}
+.card-image{
+    background-color: aqua;
+    height:180px;
+    border-radius: 15px 15px 0 0;
+    
+  
+
+}
+.car-1{
+    background-image: url("/Picture/alain.jpg");
+   
+}
+.car-2{ background-image: url("/Picture/alain.jpg");
+ 
+}
+
+.car-3{
+    background-image: url("/Picture/alain.jpg");
+    
+}
+
+.car-4{
+    background-image: url("/Picture/alain.jpg");
+
+}
+  .card p{
+    padding: 5px;
+  }
+  .card a{
+    background-color: goldenrod;
+    color:white;
+   padding:5px 5px;
+    display: block;
+    text-align: center;
+    margin: 2px 80px;
+    border-radius: 70px;
+    text-decoration: none; 
+   
+  }
+.part{
+        margin: 0;
+        padding: 0;
+        background-color: #00004d;
+        height: 100vh;
+        width: 100%;
+      display: flex;
+      justify-content: center;
+    }
+    .carf{
+        background: #fff;
+        width:250px;
+      height:440px;
+        margin: 10px;
+        border-radius: 15px;
+        border: 2px solid grey;
+      
+    }
+    .carf p{
+        padding: 3px;
+    }
+    .carf a{
+        background-color: goldenrod;
+        color:white;
+       padding:5px 5px;
+        display: block;
+        text-align: center;
+        margin: 2px 80px;
+        border-radius: 70px;
+        text-decoration: none; 
+    }
+
+    .not{
+        background-color: #00004d;
+    }
+    .select{
+        margin: 0;
+        padding: 0px;
+        background-color: #00004d;
+         height: 100vh;
+        width: 100%;
+    }
+      
+    .image{
+        
+        display: flex;
+        flex-direction: column;
+        border:5px solid white;
+        border-radius: 10px;
+        width: 600px;
+        margin:auto;
+        background-color:gray;
+    }
+
+    .soap{
+        height:350px;
+        width: 500px;
+        border-radius: 20%;
+        padding: 9px;
+    }
+    .money{
+        width:30%;
+    
+    }
+   .draw-1{
+    display:flex;
+    ;
+   
+   }
+
+   .tesx{
+   
+    background-color:#fff;
+   margin-left:60px;
+   border-radius:20%;
+   padding: 100px;
+  
+    
+   }
+   .draw-2{
+    display:flex;
+   }
+
+   .footer{
+    overflow-x: hidden;
+    background-color: blue;
+    width:100vw;
+    display:flex;
+    padding:50px;
+    text-align: center;
+    justify-content: center;
+    letter-spacing: 1px;
+    color: white;
+   }
+   .link {
+    background-color:blue;
+    text-decoration: none;
+    border: 3px solid white;
+    padding: 10px;
+    height:10px;
+   
+    color:white;
+
+}
+.stiff{
+    background-color: white;
+    color: grey;
+    text-decoration: none;
+    border:2px solid white ;
+    border-radius: 70px;
+    height: 10px;
+ 
+    padding: 10px;
+    margin: 20px;
+}
+.digital{
+    background-color: blue;
+    width: 100vw;
+    overflow: hidden;
+   
+  
+   
+}
+
+.pin{
+color: white;
+ 
+margin-left: 1000px;
+
+}
